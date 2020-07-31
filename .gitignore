@@ -1,3 +1,4 @@
+# Comando para deletar o cache do git para algum file: git rm --cached <file-path, directory-path>
 .vscode/
 .vscode
 
